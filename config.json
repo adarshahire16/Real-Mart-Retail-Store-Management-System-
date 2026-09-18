@@ -1,0 +1,16 @@
+{
+    "db_type": "sqlite",
+    "db_path": "",
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "real_mart"
+    },
+    "role": "host",
+    "setup_complete": true,
+    "backup_dir": "backups",
+    "last_backup": "2026-07-31 11:42:04",
+    "auto_backup_on_close": false,
+    "backup_retention_days": 30
+}
